@@ -1,0 +1,12 @@
+E:\CloudContact\CloudContact\ModelLayer\bin\Debug\net7.0\ModelLayer.deps.json
+E:\CloudContact\CloudContact\ModelLayer\bin\Debug\net7.0\ModelLayer.dll
+E:\CloudContact\CloudContact\ModelLayer\bin\Debug\net7.0\ModelLayer.pdb
+E:\CloudContact\CloudContact\ModelLayer\obj\Debug\net7.0\ModelLayer.csproj.AssemblyReference.cache
+E:\CloudContact\CloudContact\ModelLayer\obj\Debug\net7.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\CloudContact\CloudContact\ModelLayer\obj\Debug\net7.0\ModelLayer.AssemblyInfoInputs.cache
+E:\CloudContact\CloudContact\ModelLayer\obj\Debug\net7.0\ModelLayer.AssemblyInfo.cs
+E:\CloudContact\CloudContact\ModelLayer\obj\Debug\net7.0\ModelLayer.csproj.CoreCompileInputs.cache
+E:\CloudContact\CloudContact\ModelLayer\obj\Debug\net7.0\ModelLayer.dll
+E:\CloudContact\CloudContact\ModelLayer\obj\Debug\net7.0\refint\ModelLayer.dll
+E:\CloudContact\CloudContact\ModelLayer\obj\Debug\net7.0\ModelLayer.pdb
+E:\CloudContact\CloudContact\ModelLayer\obj\Debug\net7.0\ref\ModelLayer.dll

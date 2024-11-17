@@ -1,0 +1,15 @@
+E:\CloudContact\CloudContact\LogicInterface\bin\Debug\net7.0\LogicInterface.deps.json
+E:\CloudContact\CloudContact\LogicInterface\bin\Debug\net7.0\LogicInterface.dll
+E:\CloudContact\CloudContact\LogicInterface\bin\Debug\net7.0\LogicInterface.pdb
+E:\CloudContact\CloudContact\LogicInterface\bin\Debug\net7.0\ModelLayer.dll
+E:\CloudContact\CloudContact\LogicInterface\bin\Debug\net7.0\ModelLayer.pdb
+E:\CloudContact\CloudContact\LogicInterface\obj\Debug\net7.0\LogicInterface.csproj.AssemblyReference.cache
+E:\CloudContact\CloudContact\LogicInterface\obj\Debug\net7.0\LogicInterface.GeneratedMSBuildEditorConfig.editorconfig
+E:\CloudContact\CloudContact\LogicInterface\obj\Debug\net7.0\LogicInterface.AssemblyInfoInputs.cache
+E:\CloudContact\CloudContact\LogicInterface\obj\Debug\net7.0\LogicInterface.AssemblyInfo.cs
+E:\CloudContact\CloudContact\LogicInterface\obj\Debug\net7.0\LogicInterface.csproj.CoreCompileInputs.cache
+E:\CloudContact\CloudContact\LogicInterface\obj\Debug\net7.0\LogicInterface.csproj.CopyComplete
+E:\CloudContact\CloudContact\LogicInterface\obj\Debug\net7.0\LogicInterface.dll
+E:\CloudContact\CloudContact\LogicInterface\obj\Debug\net7.0\refint\LogicInterface.dll
+E:\CloudContact\CloudContact\LogicInterface\obj\Debug\net7.0\LogicInterface.pdb
+E:\CloudContact\CloudContact\LogicInterface\obj\Debug\net7.0\ref\LogicInterface.dll
