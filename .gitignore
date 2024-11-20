@@ -1,0 +1,14 @@
+CloudContact/bin/
+CloudContact/obj/
+DatabaseConnect/bin/
+DatabaseConnect/obj/
+DataBaseInterface/bin/
+DataBaseInterface/obj/
+LogicInterface/obj/
+LogicInterface/bin/
+LogicLayer/bin/
+LogicLayer/obj/
+ModelLayer/bin/
+ModelLayer/obj/
+Shared/bin/
+Shared/obj/
